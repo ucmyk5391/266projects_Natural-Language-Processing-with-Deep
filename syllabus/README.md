@@ -55,7 +55,6 @@ By the completion of this course, students will be able to:
 * **Rajiv Nair**: Monday at 4pm PST
 * **Paul Spiegelhalter**: Monday at 8pm PST
 * **Natalie Ahn**: Tuesday at 6pm PST
-* **Gurdit Chahal**: Wednesday at 2:00pm PST
 * **Mike Tamir**: Wednesday at 3:30pm PST
 * **Mark Butler**: Thursday at Noon PST
 * **Rachel Gao**: Thursday at 5pm PST 
@@ -389,7 +388,7 @@ will be released after the last live session of the week (on Friday) and due app
   <li>Read: <a href="https://www.technologyreview.com/s/602094/ais-language-problem/" target="_blank">AI’s Language Problem (Technology Review)</a>
   <li>Read: <a href="https://getpocket.com/explore/item/the-rise-and-fall-of-the-english-sentence" target="_blank">The Rise and Fall of the English Sentence</a>
   <li>Read: <a href="https://jalammar.github.io/illustrated-word2vec/" target="_blank">The Illustrated Word2Vec</a>
-  <li><em>Skim:</em> <a href="https://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" target="_blank">Introduction to Linguistic Typology</a>
+  <li><em>Skim:</em> <a href="https://web.archive.org/web/20220203150201/https://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" target="_blank">Introduction to Linguistic Typology</a>
   <li><em>Skim:</em> <a href="http://www.nltk.org/book/ch01.html" target="_blank">NLTK book chapter 1 (python and basics)</a>
   <li><em>Optional:</em> <a href="http://www.nltk.org/book/ch02.html" target="_blank">NLTK book chapter 2 (data resources)</a>
   <li><em>Optional:</em> <a href="http://www.newyorker.com/magazine/2007/04/16/the-interpreter-2" target="_blank">The Interpreter (New Yorker)</a>
