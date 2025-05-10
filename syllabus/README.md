@@ -56,9 +56,9 @@ By the completion of this course, students will be able to:
 * **Paul Spiegelhalter**: Monday at 8pm PST
 * **Natalie Ahn**: Tuesday at 6pm PST
 * **Mike Tamir**: Wednesday at 3:30pm PST
-* **Mark Butler**: Thursday at Noon PST
 * **Rachel Gao**: Thursday at 5pm PST 
 * **Jennifer Zhu**: Thursday at 6pm PST
+* **Mark Butler**: Friday at 4pm PST
 
 
 
@@ -292,27 +292,6 @@ will be released after the last live session of the week (on Friday) and due app
 
 
 
-<tr> <!-- a1 -->
-  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
-  <td><strong>Assignment&nbsp;1</strong>
-  <ul>
-    <li>Neural Networks
-  </ul></td>
-  <td>May&nbsp;16</td>
-  <td>May&nbsp;25</td>
-</tr>
-
-
-<tr> <!-- a2 -->
-  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
-  <td><strong>Assignment&nbsp;2</strong>
-  <ul>
-    <li>Pre-training &amp; Fine-tuning of Language Models
-  </ul></td>
-  <td>May&nbsp;23</td>
-  <td>Jun&nbsp;08</td>
-</tr>
-
 
 
 <tr><!-- Project Proposals -->
@@ -324,27 +303,7 @@ will be released after the last live session of the week (on Friday) and due app
   <td>Jun&nbsp;15</td>
 </tr>
 
-<tr> <!-- a3 -->
-  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
-  <td><strong>Assignment 3</strong>
-  <ul>
-    <li>Machine Translation
-    <li>Summarization
-  </ul></td>
-  <td>Jun&nbsp;13</td>
-  <td>Jun&nbsp;29</td>
-</tr>
 
-
-<tr> <!-- a4 -->
-  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
-  <td><strong>Assignment 4</strong>
-  <ul>
-    <li>Image Captioning
-  </ul></td>
-  <td>Jun&nbsp;27</td>
-  <td>Jul&nbsp;13</td>
-</tr>
 
 
 <tr><!--- Project Reports -->
