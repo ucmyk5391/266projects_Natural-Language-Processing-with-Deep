@@ -55,7 +55,7 @@ By the completion of this course, students will be able to:
 * **Rajiv Nair**: Monday at 4pm PST
 * **Paul Spiegelhalter**: Monday at 8pm PST
 * **Natalie Ahn**: Tuesday at 6pm PST
-* **Mike Tamir**: Wednesday at 3:30pm PST
+* **Mike Tamir**: [Friday at 9:00am PST](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0k-IPUX4AHfjAMDtmuAqBHMJTW2vF6yOh36H15WDjgyzK6pdY0Br5BZhSJ9Qyn4hCI4T4G5p6L)
 * **Rachel Gao**: Thursday at 5pm PST 
 * **Jennifer Zhu**: Thursday at 6pm PST
 * **Mark Butler**: Friday at 4pm PST
