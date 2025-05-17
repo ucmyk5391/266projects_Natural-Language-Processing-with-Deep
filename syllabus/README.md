@@ -292,6 +292,16 @@ will be released after the last live session of the week (on Friday) and due app
 
 
 
+<tr> <!-- a1 -->
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Assignment&nbsp;1</strong>
+  <ul>
+    <li>Neural Networks
+  </ul></td>
+  <td>May&nbsp;16</td>
+  <td>May&nbsp;25</td>
+</tr>
+
 
 
 <tr><!-- Project Proposals -->
