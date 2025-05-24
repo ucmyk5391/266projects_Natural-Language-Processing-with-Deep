@@ -303,6 +303,16 @@ will be released after the last live session of the week (on Friday) and due app
 </tr>
 
 
+<tr> <!-- a2 -->
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Assignment&nbsp;2</strong>
+  <ul>
+    <li>Pre-training &amp; Fine-tuning of Language Models
+  </ul></td>
+  <td>May&nbsp;23</td>
+  <td>Jun&nbsp;08</td>
+</tr>
+
 
 <tr><!-- Project Proposals -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
