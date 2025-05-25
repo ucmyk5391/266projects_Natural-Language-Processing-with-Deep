@@ -1,4 +1,5 @@
 import numpy as np
+import unittest
 
 def generate_data(num_train, num_test):
     np.random.seed(1)
