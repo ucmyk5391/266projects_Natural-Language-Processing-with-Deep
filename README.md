@@ -10,15 +10,3 @@ and deep learning. We will cover a wide range of concepts with a focus
 on practical applications such as text classification, information
 extraction, machine translation, language generation, question
 answering, and summarization.
-
-## Links:
-
-* [Ed Discussion](https://edstem.org/us/courses/78359/discussion)
-* [Syllabus](syllabus/)
-* [Assignments](assignment/)
-* [Project](project/)
-* [Notebooks & Materials](materials/)
-
-
-# 266projects_Natural-Language-Processing-with-Deep
-# 266projects_Natural-Language-Processing-with-Deep
